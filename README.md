@@ -36,14 +36,7 @@ Check out the deployed app here:
 - Trained a **Linear Regression** model to predict prices.
 - Saved the trained model using `joblib` for efficient reloading in the app.
 
----
 
-## 💻 Running Locally
-
-After installing dependencies, start the Streamlit app with:
-
-```bash
-streamlit run app.py
 ```
 
 The app will open in your browser. Input shoe details to get a price prediction!
